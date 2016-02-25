@@ -28,5 +28,5 @@ Briefly:
 - Sidekiq
 - Heroku (optional)
 - Jquery/Angular (optional)
-- [Material Design Theme] (http://192.185.228.226/projects/ma/1-5-1/) (optional)
+- [Material Design Theme] (http://byrushan.com/projects/ma/1-5-2/jquery) (optional)
 - Rest is up to you
